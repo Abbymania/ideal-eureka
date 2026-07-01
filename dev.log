@@ -1,0 +1,26 @@
+
+> yatra-dristi@0.1.0 dev
+> vite
+
+▲ [WARNING] Duplicate key "resolveJsonModule" in object literal [duplicate-object-key]
+
+    tsconfig.json:14:4:
+      14 │     "resolveJsonModule": true,
+         ╵     ~~~~~~~~~~~~~~~~~~~
+
+  The original key "resolveJsonModule" is here:
+
+    tsconfig.json:10:4:
+      10 │     "resolveJsonModule": true,
+         ╵     ~~~~~~~~~~~~~~~~~~~
+
+Port 3000 is in use, trying another one...
+Port 3001 is in use, trying another one...
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m2684[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3002[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m7:02:51 PM[22m [36m[1m[vite][22m[39m changed tsconfig file detected: D:\YatraDristi\tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2m7:02:51 PM[22m [36m[1m[vite][22m[39m changed tsconfig file detected: D:\YatraDristi\tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2m7:11:54 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mdist/index.html[22m

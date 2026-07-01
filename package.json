@@ -4,11 +4,12 @@
   "private": true,
   "description": "Intelligent Road Safety & Route Risk Prediction System",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview",
     "lint": "eslint . --ext .ts,.tsx",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "start": "npx vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
